@@ -1,0 +1,7 @@
+public class newFile{
+	private String str ="hello world!";
+	public void main(String[] args){
+		System.out.println(str);
+	}
+
+}
