@@ -3,5 +3,9 @@ Git is free software.
 git tracks change.
 git had been changed.
 Creating a new branch is quick.
-Creating a new branch is quick AND simple.
-fix the bug.
+
+
+
+
+Creating a new branch is a quick AND simple.
+
